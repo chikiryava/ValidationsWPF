@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{039F6EFA-7A8E-4D9D-8DBA-BF2D9B74DAE9}|Pract11Testes\\Pract11Testes.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11testes\\passwordtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039F6EFA-7A8E-4D9D-8DBA-BF2D9B74DAE9}|Pract11Testes\\Pract11Testes.csproj|solutionrelative:pract11testes\\passwordtestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039F6EFA-7A8E-4D9D-8DBA-BF2D9B74DAE9}|Pract11Testes\\Pract11Testes.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11testes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039F6EFA-7A8E-4D9D-8DBA-BF2D9B74DAE9}|Pract11Testes\\Pract11Testes.csproj|solutionrelative:pract11testes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\dataannotationsexample\\annotations\\strongpasswordattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\dataannotationsexample\\annotations\\strongpasswordattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\pract11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\pract11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\dataannotationsexample\\dataannotationsform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\dataannotationsexample\\dataannotationsform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\dataannotationsexample\\dataannotationsform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\dataannotationsexample\\dataannotationsform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\fluentvalidationexample\\fluentvalidationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\fluentvalidationexample\\fluentvalidationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\simpleeventhandler\\simpleeventhanlderform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\simpleeventhandler\\simpleeventhanlderform.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\fluentvalidationexample\\fluentvalidationform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\fluentvalidationexample\\fluentvalidationform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\extensions\\participantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\extensions\\participantvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\simpleeventhandler\\simpleeventhanlderform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\simpleeventhandler\\simpleeventhanlderform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\extensions\\isbnextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\extensions\\isbnextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039F6EFA-7A8E-4D9D-8DBA-BF2D9B74DAE9}|Pract11Testes\\Pract11Testes.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11testes\\pract11testes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{039F6EFA-7A8E-4D9D-8DBA-BF2D9B74DAE9}|Pract11Testes\\Pract11Testes.csproj|solutionrelative:pract11testes\\pract11testes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract11\\pract11\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E2614D-44A9-4735-A004-8D935C60D2F4}|pract11\\pract11.csproj|solutionrelative:pract11\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordTestes.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\Pract11Testes\\PasswordTestes.cs",
+              "RelativeDocumentMoniker": "Pract11Testes\\PasswordTestes.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\Pract11Testes\\PasswordTestes.cs",
+              "RelativeToolTip": "Pract11Testes\\PasswordTestes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:40:34.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAnnotationsForm.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml",
+              "RelativeDocumentMoniker": "pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml",
+              "RelativeToolTip": "pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T08:03:15.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pract11",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\pract11.csproj",
+              "RelativeDocumentMoniker": "pract11\\pract11.csproj",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\pract11.csproj",
+              "RelativeToolTip": "pract11\\pract11.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T08:02:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "pract11\\Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Models\\Participant.cs",
+              "RelativeToolTip": "pract11\\Models\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:46:42.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StrongPasswordAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\DataAnnotationsExample\\Annotations\\StrongPasswordAttribute.cs",
+              "RelativeDocumentMoniker": "pract11\\DataAnnotationsExample\\Annotations\\StrongPasswordAttribute.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\DataAnnotationsExample\\Annotations\\StrongPasswordAttribute.cs",
+              "RelativeToolTip": "pract11\\DataAnnotationsExample\\Annotations\\StrongPasswordAttribute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:14:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAnnotationsForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml.cs",
+              "RelativeDocumentMoniker": "pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml.cs",
+              "RelativeToolTip": "pract11\\DataAnnotationsExample\\DataAnnotationsForm.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvzMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:03:49.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FluentValidationForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\FluentValidationExample\\FluentValidationForm.xaml.cs",
+              "RelativeDocumentMoniker": "pract11\\FluentValidationExample\\FluentValidationForm.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\FluentValidationExample\\FluentValidationForm.xaml.cs",
+              "RelativeToolTip": "pract11\\FluentValidationExample\\FluentValidationForm.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:46:13.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "pract11\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\MainWindow.xaml",
+              "RelativeToolTip": "pract11\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T06:52:39.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\Pract11Testes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Pract11Testes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\Pract11Testes\\UnitTest1.cs",
+              "RelativeToolTip": "Pract11Testes\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:07:05.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "pract11\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Models\\UserInfo.cs",
+              "RelativeToolTip": "pract11\\Models\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:03:40.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipantValidator.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Extensions\\ParticipantValidator.cs",
+              "RelativeDocumentMoniker": "pract11\\Extensions\\ParticipantValidator.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Extensions\\ParticipantValidator.cs",
+              "RelativeToolTip": "pract11\\Extensions\\ParticipantValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:58:33.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FluentValidationForm.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\FluentValidationExample\\FluentValidationForm.xaml",
+              "RelativeDocumentMoniker": "pract11\\FluentValidationExample\\FluentValidationForm.xaml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\FluentValidationExample\\FluentValidationForm.xaml",
+              "RelativeToolTip": "pract11\\FluentValidationExample\\FluentValidationForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T07:46:05.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleEventHanlderForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml.cs",
+              "RelativeDocumentMoniker": "pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml.cs",
+              "RelativeToolTip": "pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:01:39.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "pract11\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Models\\Book.cs",
+              "RelativeToolTip": "pract11\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:56:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SimpleEventHanlderForm.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml",
+              "RelativeDocumentMoniker": "pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml",
+              "RelativeToolTip": "pract11\\SimpleEventHandler\\SimpleEventHanlderForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T06:56:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IsbnExtension.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Extensions\\IsbnExtension.cs",
+              "RelativeDocumentMoniker": "pract11\\Extensions\\IsbnExtension.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\Extensions\\IsbnExtension.cs",
+              "RelativeToolTip": "pract11\\Extensions\\IsbnExtension.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:05:39.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pract11Testes",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\Pract11Testes\\Pract11Testes.csproj",
+              "RelativeDocumentMoniker": "Pract11Testes\\Pract11Testes.csproj",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\Pract11Testes\\Pract11Testes.csproj",
+              "RelativeToolTip": "Pract11Testes\\Pract11Testes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T07:40:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "pract11\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\MainWindow.xaml.cs",
+              "RelativeToolTip": "pract11\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:52:37.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXZ+XaU3PK8UBMmgvfveM1KkpOAVLXkMcP8lW469Oa+7y4BuM1UAuUERlGGcVzt/5dn0L04aoVLjb8KK48Kz/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract11\\pract11\\pract11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st310-08\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

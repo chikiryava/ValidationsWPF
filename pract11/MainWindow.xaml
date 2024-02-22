@@ -1,0 +1,32 @@
+﻿<Window x:Class="pract11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pract11"
+        xmlns:seh="clr-namespace:pract11.SimpleEventHandler"
+        xmlns:fv="clr-namespace:pract11.FluentValidationExample"
+        xmlns:annotations="clr-namespace:pract11.DataAnnotationsExample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <TabControl>
+        <TabItem Header="Валидация в обработчике">
+            <seh:SimpleEventHanlderForm/>   
+        </TabItem>
+        <TabItem Header="Использование FluentValidation">
+            <fv:FluentValidationForm/>
+        </TabItem>
+        <TabItem Header="Использование аннотаций">
+            <annotations:DataAnnotationsForm/>
+        </TabItem>
+        <TabItem Header="Использование ValidationRule">
+
+        </TabItem>
+        <TabItem Header="Использование IDataError">
+
+        </TabItem>
+        
+        
+    </TabControl>
+</Window>

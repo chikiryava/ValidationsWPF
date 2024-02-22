@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="pract11.FluentValidationExample.FluentValidationForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:pract11.FluentValidationExample"
+             xmlns:local1="clr-namespace:pract11.Models"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <local1:Participant />
+    </UserControl.DataContext>
+    <StackPanel Margin="5">
+        <TextBlock Text="Полное имя участника" />
+        <TextBox Text="{Binding Fullname}"/>
+        <TextBlock Text="Email" />
+        <TextBox Text="{Binding Email}"/>
+        <TextBlock Text="Номер телефона" />
+        <TextBox Text="{Binding Phone}"/>
+        <TextBlock Text="Возраст" />
+        <TextBox Text="{Binding Age}"/>
+        <ItemsControl x:Name="ValidationErrorsList" Margin="0, 10">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Foreground="Red" Text="{Binding }" />
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        <Button Content="Добавить" Margin="0,10,0,0" Click="AddParticipant" />
+    </StackPanel>
+</UserControl>
